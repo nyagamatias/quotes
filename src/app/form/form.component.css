@@ -1,0 +1,53 @@
+p{
+  color: red;
+}
+h2{
+  text-align: center;
+}
+.pos{
+  margin-left: 3rem;
+}
+.form-control{
+  background-color: black;
+  border: none;
+}
+input{
+  border: 2px solid #195ae6 !important;
+  outline: none !important;
+  width: 100%;
+  border-radius:20px;
+  padding: 20px 0;
+  color: white;
+  background-color: white;
+}
+input[type = "date"]{
+  background-color: white;
+  color:black
+}
+input:focus,input:hover{
+  border:2px solid white !important;
+  color: black;
+  background-color: white;
+}
+textarea{
+  background-color: black;
+  color: white;
+  border: 2px solid #195ae6 !important;
+  width: 100%;
+  resize: none;
+}
+label{
+  font-size: 1rem;
+  color: white;
+}
+.btn{
+  background-color: #195ae6 !important;
+  color: white !important;
+  padding: 1rem 2rem!important;
+  
+}
+.center{
+ display: flex;
+ justify-content: center;
+ align-content: center;
+}
