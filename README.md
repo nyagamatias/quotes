@@ -18,7 +18,7 @@
 - See the number of upvotes and number of downvotes for each quote.
   
 ## Live link
-[Live Link](https://awadh-awadh.github.io/quote-generator/)
+[Live Link](https://nyagamatias.github.io/quotes/)
   
 ## Technologies used
   - HTML
