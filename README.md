@@ -7,7 +7,7 @@
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Author(s) information
-- Awadh Said
+- Matias Nyaga
 
 ## BDD
   As a customer, I would like to;
@@ -18,7 +18,7 @@
 - See the number of upvotes and number of downvotes for each quote.
   
 ## Live link
-[Live Link](https://awadh-awadh.github.io/quote-generator/)
+[Live Link](https://nyagamatias.github.io/quotes/)
   
 ## Technologies used
   - HTML
@@ -27,7 +27,7 @@
   - Angular
   
 ## Contact information
-  awadhsaid84@gmail.com
+  nyagamatias@gmail.com
   
 ## Development server
 
@@ -54,7 +54,7 @@
 - To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## License and Copyright information
-  Copyright 2021 Awadh Said
+  Copyright 2021 Matias Nyaga
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
